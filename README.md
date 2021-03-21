@@ -14,5 +14,14 @@ some of the challenges performed on the CSS Battle platform
           </sub>
         </a>
       </td>
+      <td align="center">
+        <a href="./01-pilot-battle/carrom">
+          <img width="150" src="./screenshots/carrom.png" />
+          <br />
+          <sub>
+            <b>Carrom</b>
+          </sub>
+        </a>
+      </td>
     </tr>
   </table>
