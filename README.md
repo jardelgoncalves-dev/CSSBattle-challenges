@@ -32,5 +32,14 @@ some of the challenges performed on the CSS Battle platform
           </sub>
         </a>
       </td>
+      <td align="center">
+        <a href="./01-pilot-battle/acid-rain">
+          <img width="150" src="./screenshots/acid-rain.png" />
+          <br />
+          <sub>
+            <b>Acid Rain</b>
+          </sub>
+        </a>
+      </td>
     </tr>
   </table>
