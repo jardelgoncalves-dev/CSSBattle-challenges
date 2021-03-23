@@ -23,5 +23,14 @@ some of the challenges performed on the CSS Battle platform
           </sub>
         </a>
       </td>
+      <td align="center">
+        <a href="./01-pilot-battle/push-button">
+          <img width="150" src="./screenshots/push-button.png" />
+          <br />
+          <sub>
+            <b>Push Button</b>
+          </sub>
+        </a>
+      </td>
     </tr>
   </table>
