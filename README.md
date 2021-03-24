@@ -42,4 +42,15 @@ some of the challenges performed on the CSS Battle platform
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="./01-pilot-battle/missing-slice">
+          <img width="150" src="./screenshots/missing-slice.png" />
+          <br />
+          <sub>
+            <b>Missing Slice</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
   </table>
