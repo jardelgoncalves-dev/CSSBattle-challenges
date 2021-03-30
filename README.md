@@ -52,5 +52,14 @@ some of the challenges performed on the CSS Battle platform
           </sub>
         </a>
       </td>
+      <td align="center">
+        <a href="./01-pilot-battle/leafy-trail">
+          <img width="150" src="./screenshots/leafy-trail.png" />
+          <br />
+          <sub>
+            <b>Leafy Trail</b>
+          </sub>
+        </a>
+      </td>
     </tr>
   </table>
